@@ -8,7 +8,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-   - `Ejercicio1.SumaDigitos.C`
+   - `[Ejercicio1.SumaDigitos.C](https://github.com/Steven-4NC/Taller-Funciones-y-procedimientos/edit/main/Readme.md)`
         - Descripción: Dado un número, calcular la suma de sus dígitos.
         - Ejemplo: 12567 -> 1 + 2 + 5 + 6 + 7 = 21
 2. **Inverso de un número**
